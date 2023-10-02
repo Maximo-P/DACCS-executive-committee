@@ -1,0 +1,72 @@
+# DACCS executive committee meeting
+
+## Logistics
+
+Where: Online
+
+When: September 29 2023
+
+Committee members present:
+Francis Charette Migneault
+David Huard
+Steve M. Easterbrook
+
+Other attendees:
+Maximo Paredes Espinal
+Donny Seto
+
+## Agenda
+
+1. Round Table
+
+Maximo Paredes:
+
+Francis Charette:
+- marble website: considering adding processing of data 
+- Link to this: https://zen3geo.readthedocs.io/en/v0.6.0/index.html
+- Merged requet that improves user workspaces populated on user instances. Now, running a wps space on your own space, you'd see a peer.
+- Working on some sample projets that use weaver, allowing user that has two type annotation into notebook. Sample here: https://github.com/crim-ca/ncml2stac
+- https://github.com/bird-house/pavics-jupyter-base
+- https://github.com/crim-ca/pavics-jupyter-images
+
+David Huard:
+- reviewed website and provided issues on the repo, will provide more comments was he does
+- daccs website: in order to release in october, we should have a decision about the stac catalogue , what we call it, when its going to be available e.t.c
+- 
+Donny Seto:
+- Will provide updates on the website whenever he has time
+- Will integrate daccs data in class during winter, some mass of students will look into impact assessment
+- Is there a minimum hardware spec to host a daccs node ? Could be interesting to figure that out
+
+Steve:
+- Before releasing the site, will continue implementing comments from issues before realsing the site
+- 2 quick updates: 
+--#1 Theres an opentext textbook intro to earth data science, everything done on python notebook and getting familiar with climate data. Could be a neat tutorial on how to use DACCS. Considering to pay a student to integrate
+--#2 there's unspent budget for frontend work for marble. Donny will refer a student
+
+
+2. Software Architecture
+3. Potential Risks
+4. Federation Decision
+5. Opportunities for Growth
+6. Other Topics
+
+## Action Items
+
+
+## Notes
+
+1. Round Table
+2. Software Architecture
+3. Potential Risks
+4. Federation Decision
+5. Opportunities for Growth
+6. Other Topics
+
+## Committee Decisions
+
+1. Description:
+
+   In Favour:
+
+   Not In Favour: 
